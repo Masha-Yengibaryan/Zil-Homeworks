@@ -10,6 +10,7 @@ namespace Problem_1
     {
         static void Main(string[] args)
         {
+            //Խնդիր_1:Ներմուծել քառանիշ թիվ և հաշվել նրա թվանշանների գումարը:
             int num;
             Console.WriteLine("Enter a number");
             num = Convert.ToInt32(Console.ReadLine());
